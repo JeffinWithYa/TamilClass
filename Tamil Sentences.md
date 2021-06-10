@@ -1,17 +1,15 @@
-- [[Tamil Class]] [[Tamil Words]] [[English Words for Tamil Class]] 
-- [[English Sentences for Tamil Class]]
 - [[Tamil Sentences Set 1]] #tamilsentences #flashcards #TamilSentencesSet1
-    - படம் பார் #tamilsentences #flashcards #TamilSentencesSet1
+    - படம் பார் 
         - Look at the picture (Paṭam pār)
-    - கரக ஆட்டம் பார் #tamilsentences #flashcards #TamilSentencesSet1
+    - கரக ஆட்டம் பார் 
         - Look at the Karaka Attam (Karaka āṭṭam pār)
-    - ஆழம் பார் #tamilsentences #flashcards #TamilSentencesSet1
+    - ஆழம் பார் 
         - Look at the depth (Āḻam pār)
-    - படச் சட்டம் #tamilsentences #flashcards #TamilSentencesSet1
+    - படச் சட்டம் 
         - Image frame (Paṭac caṭṭam)
-    - பழச் சாரம் #tamilsentences #flashcards #TamilSentencesSet1
+    - பழச் சாரம் 
         - Fruit essence (Paḻac cāram)
-    - மாம்பழச் சாரம் #tamilsentences #flashcards #TamilSentencesSet1
+    - மாம்பழச் சாரம் 
         - Mango extract/essence (Māmpaḻac cāram)
-    - பப்பாப் பழம் #tamilsentences #flashcards #TamilSentencesSet1
+    - பப்பாப் பழம் 
         - Poppy fruit (Pappāp paḻam)

@@ -1,131 +1,195 @@
-- [[Tamil Word Set 1 - Vowel அஆ]] #tamilwords #flashcards #TamilWordSet1
-    - அம்மா 
+- Tags:: [[English Words for Tamil Class]][[Tamil Class]][[Tamil Sentences]][[English Sentences for Tamil Class]]
+- [[Tamil Word Set 1 - Vowel அஆ]] #tamilwords #flashcards #TamilWordsSet1
+    - அம்மா #tamilwords #flashcards #TamilWordsSet1
         - Mother (Am'mā)
-    - அப்பா 
+    - அப்பா #tamilwords #flashcards #TamilWordsSet1
         - Father (Appā)
-    - பாட்டா 
+    - பாட்டா #tamilwords #flashcards #TamilWordsSet1
         - Grandpa (Pāṭṭā)
-    - பாப்பா 
+    - பாப்பா #tamilwords #flashcards #TamilWordsSet1
         - Baby (Pāppā)
-    - படம் 
+    - படம் #tamilwords #flashcards #TamilWordsSet1
         - Movie (Paṭam)
-    - மடம் 
+    - மடம் #tamilwords #flashcards #TamilWordsSet1
         - Monastery (Maṭam)
-    - அடம் 
+    - அடம் #tamilwords #flashcards #TamilWordsSet1
         - Stubborn (Aṭam)
-    - பாடம் 
+    - பாடம் #tamilwords #flashcards #TamilWordsSet1
         - Lesson (Pāṭam)
-    - மாடம் 
+    - மாடம் #tamilwords #flashcards #TamilWordsSet1
         - Balcony (Māṭam)
-    - பட்டம் 
+    - பட்டம் #tamilwords #flashcards #TamilWordsSet1
         - Kite (Paṭṭam)
-    - மட்டம் 
+    - மட்டம் #tamilwords #flashcards #TamilWordsSet1
         - Ruler or Level (Maṭṭam)
-    - ஆட்டம் 
+    - ஆட்டம் #tamilwords #flashcards #TamilWordsSet1
         - Motion, Game, Dance (Āṭṭam)
-    - அப்பம் 
+    - அப்பம் #tamilwords #flashcards #TamilWordsSet1
         - Appam (Appam)
-    - அப்பப்பா 
+    - அப்பப்பா #tamilwords #flashcards #TamilWordsSet1
         - Grandpa, father's father (Appappā)
-    - அப்பம்மா 
+    - அப்பம்மா #tamilwords #flashcards #TamilWordsSet1
         - Grandma, father's mother (Appam'mā)
-    - அம்மம்மா 
+    - அம்மம்மா #tamilwords #flashcards #TamilWordsSet1
         - Grandma, mother's mother (Am'mam'mā)
-    - அம்மப்பா 
+    - அம்மப்பா #tamilwords #flashcards #TamilWordsSet1
         - Grandpa, mother's father (Am'mappā)
-    - மாமா 
+    - மாமா #tamilwords #flashcards #TamilWordsSet1
         - Uncle (Māmā)
 - [[Tamil Word Set 2 - Vowel அஆ]] #tamilwords #flashcards #TamilWordSet2
-    - பழம் 
+    - பழம் #tamilwords #flashcards #TamilWordSet2
         - Fruit (Paḻam)
-    - அழம் 
+    - ஆழம் #tamilwords #flashcards #TamilWordSet2
         - Deep, Depth (Aḻam)
-    - மரம் 
+    - மரம் #tamilwords #flashcards #TamilWordSet2
         - Tree (Maram)
-    - அரம் 
+    - அரம் #tamilwords #flashcards #TamilWordSet2
         - Knife sharpener, File (Aram)
-    - ஆரம் 
+    - ஆரம் #tamilwords #flashcards #TamilWordSet2
         - Necklace, Radius, Ring around parrot neck (Āram)
-    - பரம் 
+    - பரம் #tamilwords #flashcards #TamilWordSet2
         - God, Heaven (Param)
-    - பாரம் 
+    - பாரம் #tamilwords #flashcards #TamilWordSet2
         - Weight, Load, Burden (Pāram)
-    - ரப்பர் 
+    - ரப்பர் #tamilwords #flashcards #TamilWordSet2
         - Rubber (Rappar)
-    - மாமரம் 
+    - மாமரம் #tamilwords #flashcards #TamilWordSet2
         - Mango Tree (Māmaram)
-    - பம்பரம் 
+    - பம்பரம் #tamilwords #flashcards #TamilWordSet2
         - Spinning Top (Pamparam)
-    - ஆரம்பம் 
+    - ஆரம்பம் #tamilwords #flashcards #TamilWordSet2
         - Beginning (Ārampam)
-    - பட்டமரம் 
+    - பட்டமரம் #tamilwords #flashcards #TamilWordSet2
         - Dead Tree (Paṭṭamaram)
-    - மாம்பழம் 
+    - மாம்பழம் #tamilwords #flashcards #TamilWordSet2
         - Mango (Māmpaḻam)
-    - பாபம் 
+    - பாபம் #tamilwords #flashcards #TamilWordSet2
         - Sin (Pāpam)
 - [[Tamil Word Set 3 - Vowel அஆ]] #tamilwords #flashcards #TamilWordSet3
-    - சரம் 
+    - சரம் #tamilwords #flashcards #TamilWordSet3
         - String of flowers (Caram)
-    - சாரம் 
+    - சாரம் #tamilwords #flashcards #TamilWordSet3
         - Essence, comes from something, ex. juice squeezed from fruit. Also the cloth thing old people wear. (Cāram)
-    - சட்டம் 
+    - சட்டம் #tamilwords #flashcards #TamilWordSet3
         - Frame, Law (Caṭṭam)
-    - சக்கரம் 
+    - சக்கரம் #tamilwords #flashcards #TamilWordSet3
         - Wheel (Cakkaram)
-    - கடா 
+    - கடா #tamilwords #flashcards #TamilWordSet3
         - Male goat (Kaṭā)
-    - கடம் 
+    - கடம் #tamilwords #flashcards #TamilWordSet3
         - musical instrument played on pot (Kaṭam)
-    - கட்டம் 
-        - Square or block (Kaṭṭam)
-    - கட்டடம் 
+    - கட்டம் #tamilwords #flashcards #TamilWordSet3
+        - Square or block, square space (Kaṭṭam)
+    - கட்டடம் #tamilwords #flashcards #TamilWordSet3
         - Building (Kaṭṭaṭam)
-    - கம்பம் 
+    - கம்பம் #tamilwords #flashcards #TamilWordSet3
         - Post (example Lamp post), Pole (Kampam)
-    - கமகம 
+    - கமகம #tamilwords #flashcards #TamilWordSet3
         - Sense of smell (Kamahama)
-    - கரகர 
+    - கரகர #tamilwords #flashcards #TamilWordSet3
         - Irritation of throat (example sore throat), crackling sound (Karahara)
-    - கமம் 
+    - கமம் #tamilwords #flashcards #TamilWordSet3
         - Farming (Kamam)
-    - கரகம் 
-        - pot (traditional) dance Karaham
-    - கரம் 
+    - கரகம் #tamilwords #flashcards #TamilWordSet3
+        - pot (traditional) dance (Karaham)
+    - கரம் #tamilwords #flashcards #TamilWordSet3
         - Hand (Karam)
-    - அக்கா 
+    - அக்கா #tamilwords #flashcards #TamilWordSet3
         - Sister (Akkā)
-    - காகம் 
+    - காகம் #tamilwords #flashcards #TamilWordSet3
         - Crow (Kāham)
-    - காரம் 
+    - காரம் #tamilwords #flashcards #TamilWordSet3
         - Spicy, hot (Kāram)
-    - சர்ப்பம் 
+    - சர்ப்பம் #tamilwords #flashcards #TamilWordSet3
         - Snake (Carppam)
-    - சமம் 
+    - சமம் #tamilwords #flashcards #TamilWordSet3
         - Equal (Camam)
-    - சாமம் 
+    - சாமம் #tamilwords #flashcards #TamilWordSet3
         - Midnight (Cāmam)
-    - ஆக்கம் 
+    - ஆக்கம் #tamilwords #flashcards #TamilWordSet3
         - Creativity, creation (Ākkam)
-    - பக்கம் 
+    - பக்கம் #tamilwords #flashcards #TamilWordSet3
         - Page, Side (Pakkam)
-    - பாசம் 
+    - பாசம் #tamilwords #flashcards #TamilWordSet3
         - Affection (Pācam)
-    - மச்சம் 
+    - மச்சம் #tamilwords #flashcards #TamilWordSet3
         - meat, beauty mark, fish, non-veg, mole (Maccam)
-    - பழக்கம் 
+    - பழக்கம் #tamilwords #flashcards #TamilWordSet3
         - Habit, behaviour (Paḻakkam)
-    - அடக்கம் 
+    - அடக்கம் #tamilwords #flashcards #TamilWordSet3
         - Modesty, burial (Aṭakkam)
-    - சமர் 
+    - சமர் #tamilwords #flashcards #TamilWordSet3
         - War (Camar)
-    - சாம்பார் 
+    - சாம்பார் #tamilwords #flashcards #TamilWordSet3
         - Soup (Cāmpār)
-    - அரச மரம் 
+    - அரச மரம் #tamilwords #flashcards #TamilWordSet3
         - Papal (royal) tree (Araca maram)
-    - அக்கம் 
+    - அக்கம் #tamilwords #flashcards #TamilWordSet3
         - Beside, neighbour (Akkam)
-    - அச்சம் 
+    - அச்சம் #tamilwords #flashcards #TamilWordSet3
         - Fear (Accam)
-    - பார் 
+    - பார் #tamilwords #flashcards #TamilWordSet3
         - Look (Pār)
+- [[Tamil Word Set 4 - Vowel அஆ]] #tamilwords #flashcards #TamilWordSet4
+    - நட #tamilwords #flashcards #TamilWordSet4
+        - Walk (Naṭa)
+    - பதம் #tamilwords #flashcards #TamilWordSet4
+        - Fitness (Patham)
+    - மதம் #tamilwords #flashcards #TamilWordSet4
+        - Religion (Matham)
+    - தாகம் #tamilwords #flashcards #TamilWordSet4
+        - thirst, thirsty (Thāham)
+    - சாதம் #tamilwords #flashcards #TamilWordSet4
+        - cooked rice (Cātham)
+    - பாதம் #tamilwords #flashcards #TamilWordSet4
+        - Foot (Pātham)
+    - சாந்தம் #tamilwords #flashcards #TamilWordSet4
+        - Calm, calmness (Cāntham)
+    -  நகம் #tamilwords #flashcards #TamilWordSet4
+        - Nail (Nakam)
+    - நகரம் #tamilwords #flashcards #TamilWordSet4
+        - City (Naharam) 
+    - நாடகம் #tamilwords #flashcards #TamilWordSet4
+        - drama/play (Nāṭaham)
+    - தக தக #tamilwords #flashcards #TamilWordSet4
+        - brightly (Thaha thaha)
+    - காந்தம் #tamilwords #flashcards #TamilWordSet4
+        - Magnet (Kāntham) 
+    - தர்மம் #tamilwords #flashcards #TamilWordSet4
+        - Charity (Tharmam)
+    - நரகம் #tamilwords #flashcards #TamilWordSet4
+        - Hell (Naraham)
+    - சாதகம் #tamilwords #flashcards #TamilWordSet4
+        - Horoscope (Cāthaham)
+    - சம்பந்தம் #tamilwords #flashcards #TamilWordSet4
+        - Relationship/connection (Campantham)
+    - தந்தம் #tamilwords #flashcards #TamilWordSet4
+        - Elephant Tusk, Ivory (Thantham)
+    - பந்தம் #tamilwords #flashcards #TamilWordSet4
+        - Relationship, bond, torch (Pantham)
+    - தரம் #tamilwords #flashcards #TamilWordSet4
+        - Standard, class, great (Tharam)
+    - அகம் #tamilwords #flashcards #TamilWordSet4
+        - Mind, house, internal (Aham)
+    - நாதம் #tamilwords #flashcards #TamilWordSet4
+        - Musical sound (Nātham)
+    - மந்தம் #tamilwords #flashcards #TamilWordSet4
+        - Dullness of intellect, recession (Mantham)
+    - சத்தம் #tamilwords #flashcards #TamilWordSet4
+        - Sound (Catham)
+    - தடாகம் #tamilwords #flashcards #TamilWordSet4
+        - Lake, pond (Thaṭāham)
+    - தாரம் #tamilwords #flashcards #TamilWordSet4
+        - Life partner (Thāram)
+    - மாதம் #tamilwords #flashcards #TamilWordSet4
+        - Month (Mātham)
+    - தடம் #tamilwords #flashcards #TamilWordSet4
+        - Foot step, track (Thaṭam)
+    - தட்டம் #tamilwords #flashcards #TamilWordSet4
+        - Plate (Thaṭṭam)
+    - நட்டம் #tamilwords #flashcards #TamilWordSet4
+        - Loss (Naṭṭam)
+    - அபாரம் #tamilwords #flashcards #TamilWordSet4
+        - Excellent (Apāram)
+    - தகரம் #tamilwords #flashcards #TamilWordSet4
+        - Tin (Thakaram)

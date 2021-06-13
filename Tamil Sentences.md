@@ -1,15 +1,32 @@
+- [[Tamil Class]] [[Tamil Words]] [[English Words for Tamil Class]] 
+- [[English Sentences for Tamil Class]]
 - [[Tamil Sentences Set 1]] #tamilsentences #flashcards #TamilSentencesSet1
-    - படம் பார் 
+    - படம் பார் #tamilsentences #flashcards #TamilSentencesSet1
         - Look at the picture (Paṭam pār)
-    - கரக ஆட்டம் பார் 
-        - Look at the Karaka Attam (Karaka āṭṭam pār)
-    - ஆழம் பார் 
+    - கரக ஆட்டம் பார் #tamilsentences #flashcards #TamilSentencesSet1
+        - Look at the Karaka Attam (Karaha āṭṭam pār)
+    - ஆழம் பார் #tamilsentences #flashcards #TamilSentencesSet1
         - Look at the depth (Āḻam pār)
-    - படச் சட்டம் 
+    - படச் சட்டம் #tamilsentences #flashcards #TamilSentencesSet1
         - Image frame (Paṭac caṭṭam)
-    - பழச் சாரம் 
+    - பழச் சாரம் #tamilsentences #flashcards #TamilSentencesSet1
         - Fruit essence (Paḻac cāram)
-    - மாம்பழச் சாரம் 
+    - மாம்பழச் சாரம் #tamilsentences #flashcards #TamilSentencesSet1
         - Mango extract/essence (Māmpaḻac cāram)
-    - பப்பாப் பழம் 
+    - பப்பாப் பழம் #tamilsentences #flashcards #TamilSentencesSet1
         - Poppy fruit (Pappāp paḻam)
+- [[Tamil Sentences Set 2]] #tamilsentences #flashcards #TamilSentencesSet2
+    - மரச் சட்டம் #tamilsentences #flashcards #TamilSentencesSet2
+        - Wooden frame (Marac caṭṭam)
+    - பழ ரசம் #tamilsentences #flashcards #TamilSentencesSet2
+        - Fruit Juice (Paḻa racam)
+    - அந்த மாமரம் #tamilsentences #flashcards #TamilSentencesSet2
+        - That mango (Anta māmaram)
+    - மாம்பழ ரசம் #tamilsentences #flashcards #TamilSentencesSet2
+        - Mango juice (Māmpaḻa racam)
+    - மரக் கட்டடம் #tamilsentences #flashcards #TamilSentencesSet2
+        - Wooden building (Marach chaṭṭaṭam) 
+    - தகரத தட்டம் #tamilsentences #flashcards #TamilSentencesSet2
+        - Tin plate (Thakaratha thaṭṭam)
+    - ரப்பர்ச் சக்கரம் #tamilsentences #flashcards #TamilSentencesSet2
+        - Rubber wheel (Rapparch chakkaram)

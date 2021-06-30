@@ -1,32 +1,62 @@
-- [[Tamil Class]] [[Tamil Words]] [[English Words for Tamil Class]] 
-- [[English Sentences for Tamil Class]]
-- [[Tamil Sentences Set 1]] #tamilsentences #flashcards #TamilSentencesSet1
-    - படம் பார் #tamilsentences #flashcards #TamilSentencesSet1
+- Tags:: [[Tamil Class]] [[Tamil Words]] [[English Words for Tamil Class]][[English Sentences for Tamil Class]][[Pages with Flashcards]]
+- [[Tamil Sentences Set 1]] #tamilsentences #flashcards #TamilSentencesSet1 {{sr}}
+    - படம் பார் #tamilsentences #flashcards #TamilSentencesSet1 #sr
         - Look at the picture (Paṭam pār)
-    - கரக ஆட்டம் பார் #tamilsentences #flashcards #TamilSentencesSet1
+    - கரக ஆட்டம் பார் #tamilsentences #flashcards #TamilSentencesSet1 #sr
         - Look at the Karaka Attam (Karaha āṭṭam pār)
-    - ஆழம் பார் #tamilsentences #flashcards #TamilSentencesSet1
+    - ஆழம் பார் #tamilsentences #flashcards #TamilSentencesSet1 #sr
         - Look at the depth (Āḻam pār)
-    - படச் சட்டம் #tamilsentences #flashcards #TamilSentencesSet1
+    - படச் சட்டம் #tamilsentences #flashcards #TamilSentencesSet1 #sr
         - Image frame (Paṭac caṭṭam)
-    - பழச் சாரம் #tamilsentences #flashcards #TamilSentencesSet1
+    - பழச் சாரம் #tamilsentences #flashcards #TamilSentencesSet1 #sr
         - Fruit essence (Paḻac cāram)
-    - மாம்பழச் சாரம் #tamilsentences #flashcards #TamilSentencesSet1
+    - மாம்பழச் சாரம் #tamilsentences #flashcards #TamilSentencesSet1 #sr
         - Mango extract/essence (Māmpaḻac cāram)
-    - பப்பாப் பழம் #tamilsentences #flashcards #TamilSentencesSet1
+    - பப்பாப் பழம் #tamilsentences #flashcards #TamilSentencesSet1 #sr
         - Poppy fruit (Pappāp paḻam)
-- [[Tamil Sentences Set 2]] #tamilsentences #flashcards #TamilSentencesSet2
-    - மரச் சட்டம் #tamilsentences #flashcards #TamilSentencesSet2
+- [[Tamil Sentences Set 2]] #tamilsentences #flashcards #TamilSentencesSet2 {{sr}}
+    - மரச் சட்டம் #tamilsentences #flashcards #TamilSentencesSet2 #sr
         - Wooden frame (Marac caṭṭam)
-    - பழ ரசம் #tamilsentences #flashcards #TamilSentencesSet2
+    - பழ ரசம் #tamilsentences #flashcards #TamilSentencesSet2 #sr
         - Fruit Juice (Paḻa racam)
-    - அந்த மாமரம் #tamilsentences #flashcards #TamilSentencesSet2
+    - அந்த மாமரம் #tamilsentences #flashcards #TamilSentencesSet2 #sr
         - That mango (Anta māmaram)
-    - மாம்பழ ரசம் #tamilsentences #flashcards #TamilSentencesSet2
+    - மாம்பழ ரசம் #tamilsentences #flashcards #TamilSentencesSet2 #sr
         - Mango juice (Māmpaḻa racam)
-    - மரக் கட்டடம் #tamilsentences #flashcards #TamilSentencesSet2
-        - Wooden building (Marach chaṭṭaṭam) 
-    - தகரத தட்டம் #tamilsentences #flashcards #TamilSentencesSet2
+    - மரக் கட்டடம் #tamilsentences #flashcards #TamilSentencesSet2 #sr #f
+        - Wooden building (Marak kaṭṭaṭam) 
+    - தகரத தட்டம் #tamilsentences #flashcards #TamilSentencesSet2 #sr
         - Tin plate (Thakaratha thaṭṭam)
-    - ரப்பர்ச் சக்கரம் #tamilsentences #flashcards #TamilSentencesSet2
+    - ரப்பர்ச் சக்கரம் #tamilsentences #flashcards #TamilSentencesSet2 #sr
         - Rubber wheel (Rapparch chakkaram)
+- [[Tamil Sentences Set 3]] #tamilsentences #flashcards #TamilSentencesSet3 {{sr}}
+    - அப்பா நடந்தார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Dad walked (Appā naṭanthār)
+    - மாமா நாடகம் பார்த்தார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Uncle watched the play (Māmā nāṭaham pārtthār)
+    - அம்மா மாம்பழம் தந்தார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Mom gave me mangoes (Am'mā māmpaḻam tantār)
+    - அக்கா பழரசம் தந்தார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Sister gave the juice (Akkā paḻaracam thanthār)
+    - அப்பப்பா கரக ஆட்டம் பார்த்தார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Grandpa watched the karaha dance (Appappā karaha āṭṭam pārtthār)
+    - அம்மம்மா படம் பார்த்தார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Grandma watched the movie (Am'mam'mā paṭam pārtthār)
+    - அப்பா கம்பம் நட்டார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Dad planted the pole (Appā kampam naṭṭār)
+    - மாமா மரம் நட்டார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Uncle planted a tree (Māmā maram naṭṭār)
+    - அப்பப்பா நடந்தார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Grandpa walked (Appappā naṭanthār)
+    - அக்கா பம்பரம் கந்தார் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - Sister saw a spinning top (Akkā pamparam kanthār)
+    - மாமா தந்த மாம்பழம் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - This is the mango Uncle gave (Māmā thantha māmpaḻam)
+    - தாத்தா தந்த பம்பரம் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - This is the beyblade Grandpa gave (Thātthā thantha pamparam)
+    - அப்பா நட்ட மரம் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - This is the tree dad planted (Appā naṭṭa maram)
+    - அக்கா பார்த்த நாடகம் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - This is the play/drama my sister saw (Akkā pārttha nāṭaham)
+    - அம்மா பார்த்த படம் #tamilsentences #flashcards #TamilSentencesSet3 #sr
+        - This is the picture my mom saw (Am'mā pārttha paṭam)
